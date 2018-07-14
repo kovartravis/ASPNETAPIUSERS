@@ -1,0 +1,10 @@
+C:\ASPNETUSERS\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\UsersAPI.deps.json
+C:\ASPNETUSERS\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\UsersAPI.runtimeconfig.json
+C:\ASPNETUSERS\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\UsersAPI.runtimeconfig.dev.json
+C:\ASPNETUSERS\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\UsersAPI.dll
+C:\ASPNETUSERS\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\UsersAPI.pdb
+C:\ASPNETUSERS\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\UsersAPI.csproj.CoreCompileInputs.cache
+C:\ASPNETUSERS\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\UsersAPI.AssemblyInfoInputs.cache
+C:\ASPNETUSERS\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\UsersAPI.AssemblyInfo.cs
+C:\ASPNETUSERS\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\UsersAPI.dll
+C:\ASPNETUSERS\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\UsersAPI.pdb
